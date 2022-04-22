@@ -4,9 +4,7 @@ This app will generate an automated README.md file using the inquirer NPM, File 
 
 ---
 ## Table of Contents
-- [Demo](#demo)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
+
   - [Installation](#installation)
   - [Usage](#usage)
   - [License <a name = "license"></a>](#license-)
