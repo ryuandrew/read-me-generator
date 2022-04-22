@@ -69,13 +69,17 @@ THEN I am taken to the corresponding section of the README  ✅
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+---
+## Demo
+
+The video demo of the app can be found here:
+https://drive.google.com/file/d/1_pNQmD_fGvUjtjROKPEHhkRpo0WFpQ2D/view
 
 ## Screenshot
-
+![](Screen%20Shot%202022-04-21%20at%206.16.08%20PM.png)
 
 ---
-
-#### Github: https://github.com/ryuandrew/read-me-generator
+### Github: https://github.com/ryuandrew/read-me-generator
 
 
 
